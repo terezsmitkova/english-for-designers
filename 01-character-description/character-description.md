@@ -7,3 +7,9 @@
 - - -
 
 **Alt text:** The idea of a letter C symbolizes a lying cat. Inspiration of my cat.
+
+### Process
+
+#### Inspiration
+
+![My cat.](uppercase-and-sketch-1-jgagne.png)
