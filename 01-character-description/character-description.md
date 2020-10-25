@@ -12,4 +12,4 @@
 
 #### Inspiration
 
-![My cat.](uppercase-and-sketch-1-jgagne.png)
+![My cat.](uppercase-C-inspiration-tsmitkova.png)
