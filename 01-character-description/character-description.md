@@ -12,4 +12,4 @@
 
 #### Inspiration
 
-![My cat.](uppercase-C-inspiration-tsmitkova.png)
+![My cat.](uppercase-C-inspiration.png)
