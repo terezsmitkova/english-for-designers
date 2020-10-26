@@ -6,7 +6,7 @@ I was working on the identity with my classmate Eliska Safarova.
 
 ### The Inspiration of others works
 
-![The inspiration of others works.](inspiration-festival.jpg)
+![inspiration-festival.jpg.](./img/inspiration-festival.jpg)
 
 ### Moodboard
 
