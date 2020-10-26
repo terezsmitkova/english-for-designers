@@ -17,6 +17,8 @@ Next, We did a moodboard - which colors will apply for design, style of illustra
 ### The Inspiration of others works
 ![inspiration](images/inspiration-festival-works.jpg)
 
+We found inspiration and icons, which are very playful, colorful, mystical like India. 
+
 ### Moodboard
 
 ![moodboard.](images/inspiration-festival-colors.jpg)
