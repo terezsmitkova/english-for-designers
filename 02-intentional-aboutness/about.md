@@ -1,4 +1,4 @@
 
 ## Tereza Smitková
 
-Beginning designer obsessed with preciseness and purity of artwork, in love with simplicity and minimalism.
+Beginning designer with a sense of preciseness and simplicity of artwork, in love with illustration.
