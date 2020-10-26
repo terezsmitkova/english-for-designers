@@ -7,15 +7,15 @@ I was working on the identity with my classmate Eliska Safarova.
 ### The Inspiration of others works
 ![inspiration](images/inspiration-festival-works.jpg)
 
-### Sketch
-
-![sketch](images/sketch-festival.jpg)
-
 ### Moodboard
 
 ![moodboard.](images/inspiration-festival-colors.jpg)
 
 Our inspirations were typical Indian colors, illustrations and movie icons.
+
+### Sketch
+
+![sketch](images/sketch-festival.jpg)
 
 ### The connecting element
 ![the connecting element](images/element-festival.jpg)
@@ -29,7 +29,11 @@ The grid means the system of Europe. The colors and illustrations define the div
 
 The whole motive is consists of illustration (typical Indian and movie elements), which are connecting each other and create the main story and secondary stories too. 
 
+### Romantic movie
+
 ![Romantic movie](images/romantic-movie-festival.jpg)
+
+### Thriller
 
 ![Thriller](images/thriller-festival.jpg)
 
