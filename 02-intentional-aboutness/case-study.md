@@ -6,23 +6,27 @@ I was working on the identity with my classmate Eliska Safarova.
 
 ### The Inspiration of others works
 
-![inspiration-festival.jpg.](./img/inspiration-festival.jpg)
+![inspiration](inspiration-festival-works.jpg)
+
+### Sketch
+
+![sketch](sketch-festival.jpg)
 
 ### Moodboard
 
-![Moodboard.](inspiration-festival-colors.jpg)
+![moodboard.](inspiration-festival-colors.jpg)
 
 Our inspirations were typical Indian colors, illustrations and movie icons.
 
 ### The connecting element
-![The connecting element](element-festival.jpg)
+![the connecting element](element-festival.jpg)
 
 The connecting element for the visual identity is the grid - symbolizes movie windows/screen, where takes place stories.
 The grid means the system of Europe. The colors and illustrations define the diversity of India.
 
 ### Visual identity of festival  
 #### (stories and illustration)
-![Visual Identity](stories-illustrations-festival.jpg)
+![visual Identity](stories-illustrations-festival.jpg)
 
 The whole motive is consists of illustration (typical Indian and movie elements), which are connecting each other and create the main story and secondary stories too. 
 
