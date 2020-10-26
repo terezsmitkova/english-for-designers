@@ -1,8 +1,10 @@
 
 ## Bollywood festival
 
-Last semester we were given a task for a new visual identity of the existing festival.
-I was working on the identity with my classmate Eliska Safarova.
+Last semester we were given a brief for a new visual identity of the existing festival.
+I was working on the identity with my classmate Eliska Safarova. I think this is one of the best work I have ever created.
+
+Bollywood Festival celebrated 18 years old - imaginary adulthood, this year. The task was to create a design, which could represent topics - adulthood, majority, a mix of Czech, and Indian culture. The festival organizes a non-profit organization Bollywood z.s., headed by writer and director Radim Špaček.
 
 ### The Inspiration of others works
 ![inspiration](images/inspiration-festival-works.jpg)
