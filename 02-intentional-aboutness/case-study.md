@@ -9,7 +9,7 @@ The new visual identity is needed to unite visual style, marketing strategy, new
 
 The first step: make a research about the festival, find more information about it,  find out its design in the past years. 
 The second step: We started brainstorming - writing keywords for a festival, India, movies. We found some inspiration for the topic, defined the style of visual identity (colorful, playful, significant).
-Next, We did a moodboard - which colors will apply for design, style of illustration. We defined a connecting element - the grid - the system for illustrations. The topic of our visual style was creating pictures, which are connected and as movies as imagine stories. That it is possible to make a combination of them for lots of variations. We drew some sketches, figure out a way to a combination of them. Then we started designing on PC (Adobe Illustrator, Procreate). 
+Next, We did a moodboard - which colors will apply for design, style of illustration. We defined a connecting element - the grid - the system for illustrations. The topic of our visual style was creating pictures, which are connected and as movies as imagine stories. That it is possible to make a combination of them for lots of variations. We drew some sketches, figure out a way to a combination of them. Then we started designing on PC (Adobe Illustrator, Procreate). We made the illustrations and icons in the graphic program Procreate on a tablet, promotion, mockups in Adobe Illustrator, and the animations in Adobe Aftereffects. 
 
 ## Process
 
