@@ -84,7 +84,11 @@ There are a little animation and TV spot for showing that the illustration can g
 
 To download in animations
 
+### Presention 
 
+![presention](presention.jpg)
+
+The last is our presentation for the client.
 
 
 
