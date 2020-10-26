@@ -53,7 +53,7 @@ There is main motive. It is consists of illustration (typical Indian and movie e
 
 ![Thriller](images/thriller-festival.jpg)
 
-The grid is good for new stories. It is possible to create lots of varieties for different genre of movies (characteristic icons). For a romantic film is a woman, man, love. For a thriller is a gun, robbery, bomb.
+The grid is good for new stories. This way is possible to create lots of varieties for different genre of movies (characteristic icons). For a romantic film is a woman, man, love. For a thriller is a gun, robbery, bomb.
 
 ### Our language 
 
