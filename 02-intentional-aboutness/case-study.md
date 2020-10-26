@@ -8,7 +8,7 @@ I was working on the identity with my classmate Eliska Safarova.
 ![The inspiration of others works.](inspiration-festival.jpg)
 
 ### Moodboard
-![Moodboard.](ispiration-festival-colors.jpg)
+![Moodboard.](inspiration-colors-festival.jpg)
 
 Our inspirations were typical Indian colors, illustrations and movie icons.
 
