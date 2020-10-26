@@ -1,6 +1,6 @@
 ## Character & Description
 
-![The idea of a letter C symbolizes a lying cat. Inspiration of my cat.](uppercase-C-tsmitkova.PNG)
+![The idea of a letter C symbolizes a lying cat. Inspiration of my cat.](uppercase-c-tsmitkova.png)
 
 *C*, Tereza Smitkova. Screenshot of an artboard in Adobe Illustrator.
 
@@ -12,4 +12,4 @@
 
 #### Inspiration
 
-![My cat.](uppercase-C-inspiration.png)
+![My cat.](uppercase-c-inspiration.jpg)
