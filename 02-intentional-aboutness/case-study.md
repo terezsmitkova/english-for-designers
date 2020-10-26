@@ -64,7 +64,8 @@ We created our language - Indian proverbs, which represent mysterious India. It 
 
 ![social media](images/social-media-festival.jpg)
 
-People can be part of the festival via Instagram or Facebook. They can create their own stories, invent funny captions. For example Romeo, I am waiting for you, where are you (you can see in the first picture).
+People can be part of the festival via Instagram or Facebook. They can create their own stories, invent funny captions. 
+For example: Romeo, I am waiting for you, where are you? (you can see in the first picture).
 
 ### Gift items
 
