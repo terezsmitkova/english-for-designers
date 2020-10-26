@@ -76,7 +76,7 @@ We created our language - inspirated by Indian proverbs, which represent mysteri
 ![social media](images/social-media-festival.jpg)
 
 People can be part of the festival via Instagram or Facebook. They can create their own stories, invent funny captions. 
-For example: Romeo, I am waiting for you, where are you? (you can see in the first picture).
+For example: Romeo, I am waiting for you, where are you? (you can see in the first picture). Also is possible to make a ticket game or a puzzle for the movie. 
 
 ### Gift items
 
