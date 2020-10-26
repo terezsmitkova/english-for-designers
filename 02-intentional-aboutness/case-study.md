@@ -1,12 +1,11 @@
 
 ## Bollywood festival
 
-Last semester we were given a brief for a new visual identity of the existing festival.
-I was working on the identity together with my classmate Eliska Safarova. I think this is one of the best work I have ever created.
+Last semester we were given a brief for a new visual identity of the existing festival. I was working on the identity together with my classmate Eliska Safarova. I think this is one of the best work I have ever created.
 
 Bollywood Festival celebrated 18 years old - imaginary adulthood, this year. The task was to create a design, which could represent topics - adulthood, majority, a mix of Czech, and Indian culture. The festival organizes a non-profit organization Bollywood z.s., headed by writer and director Radim Špaček.
 
-The new visual identity needed to unite visual style, marketing strategy, new communication via social media (Instagram, Facebook), making promotion and gift items (tickets, bags, badges). Also, make an idea for next year (creating a connecting element).
+The new visual identity is needed to unite visual style, marketing strategy, new communication via social media (Instagram, Facebook), making promotions, and gift items (tickets, bags, badges). Also, make an idea for next year (creating a connecting element).
 
 The first step: make a research about the festival, find more information about it,  find out its design in the past years. 
 The second step: We started brainstorming - writing keywords for a festival, India, movies. We found some inspiration for the topic, defined the style of visual identity (colorful, playful, significant).
