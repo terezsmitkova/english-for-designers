@@ -86,7 +86,7 @@ To download in animations
 
 ### Presention 
 
-![presention](presention.jpg)
+![presention](presentation.jpg)
 
 The last is our presentation for the client.
 
