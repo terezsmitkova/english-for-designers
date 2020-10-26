@@ -6,7 +6,7 @@ I was working on the identity with my classmate Eliska Safarova.
 
 ### The Inspiration of others works
 
-![inspiration](/images/inspiration-festival-colors.jpg)
+![inspiration](inspiration-festival-colors.jpg)
 
 ### Sketch
 
