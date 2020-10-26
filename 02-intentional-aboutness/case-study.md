@@ -60,7 +60,7 @@ The grid is good for new stories. It is possible to create lots of varieties for
 
 ![language](images/language-festival.jpg)
 
-We created our language - Indian proverbs, which represent mysterious India. It very funny and makes you think. Also, that is a part of the visual communication.
+We created our language - inspirated by Indian proverbs, which represent mysterious India. It very funny and makes you think. Also, that is a part of the visual communication in posters,and especially on social media. 
 
 ### Promotion
 
