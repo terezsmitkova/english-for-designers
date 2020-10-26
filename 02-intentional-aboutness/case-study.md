@@ -17,6 +17,8 @@ Our inspirations were typical Indian colors and combinations of them, illustrati
 
 ![sketch](images/sketch-festival.jpg)
 
+We tried combinations of illustrations and create stories.
+
 ### The connecting element
 
 ![the connecting element](images/element-festival.jpg)
