@@ -5,10 +5,12 @@ Last semester I was given a task for a new visual identity of the existing festi
 I was working on the identity with my classmate Eliska Safarova.
 
 ### The Inspiration of others works
+
 ![The inspiration of others works.](inspiration-festival.jpg)
 
 ### Moodboard
-![Moodboard.](inspiration-colors-festival.jpg)
+
+![Moodboard.](inspiration-festival-colors.jpg)
 
 Our inspirations were typical Indian colors, illustrations and movie icons.
 
