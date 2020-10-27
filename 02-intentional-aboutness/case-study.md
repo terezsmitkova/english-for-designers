@@ -65,7 +65,7 @@ We also created an alternative custom language based on Indian proverbs. The lan
 
 ![posters](images/posters-festival.jpg)
 
-#### Indication on WC
+#### Indication on toilet
 
 ![WC](images/wc-festival.jpg)
 
@@ -73,7 +73,7 @@ We also created an alternative custom language based on Indian proverbs. The lan
 
 ![social media](images/social-media-festival.jpg)
 
-People can be part of the festival via Instagram or Facebook. They can create their own stories, invent funny captions. 
+Our visual style of stories allows people to become part of the festival on social networks via Instagram and Facebook. They can create their own story, join illustrations, and come up with funny captions. And so, thanks to these posts, the festival can quickly become known among the people.
 For example: Romeo, I am waiting for you, where are you? (you can see in the first picture). Also is possible to make a ticket game or a puzzle for the movie. 
 
 ### Gift items
@@ -90,7 +90,7 @@ For example: Romeo, I am waiting for you, where are you? (you can see in the fir
 
 ![TV spot](animations/TV-spot.mp4)
 
-There are a little animation and TV spot for showing that the illustration can get to move.
+There are a little animation and TV spot for showing that the illustration could be on the move.
 
 To download in animations
 
