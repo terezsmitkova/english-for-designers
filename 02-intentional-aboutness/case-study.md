@@ -20,19 +20,19 @@ We found inspiration and icons, which are very playful, colorful, mystical like 
 
 ![moodboard.](images/inspiration-festival-colors.jpg)
 
-Our inspirations were typical Indian colors and combinations of them, illustrations and movie icons.
+Our inspirations were typical Indian colors and combinations of them. Also typical icons for movie and India.
 
 ### Sketch
 
 ![sketch](images/sketch-festival.jpg)
 
-We tried combinations of illustrations and create stories.
+We tried to make combinations of illustrations and create stories.
 
 ### The connecting element
 
 ![the connecting element](images/element-festival.jpg)
 
-The connecting element for the visual identity is the grid - symbolizes movie windows/screen, where takes place stories.
+The connecting element for the visual identity is the grid - symbolizes movie windows, where takes place stories.
 The grid means the system of Europe, orderliness. The colors and illustrations represent the diversity of India.
 
 ### Visual identity of festival  
@@ -51,13 +51,13 @@ There is main motive. It is consists of illustration (typical Indian and movie e
 
 ![Thriller](images/thriller-festival.jpg)
 
-The grid is good for new stories. This way is possible to create lots of varieties for different genre of movies (characteristic icons). For a romantic film is a woman, man, love. For a thriller is a gun, robbery, bomb.
+The grid is good for making new stories. This way is possible to create lots of varieties for different genre of movies (characteristic icons). For a romantic film is a woman, man, love. For a thriller is a gun, robbery, bomb.
 
 ### Our language 
 
 ![language](images/language-festival.jpg)
 
-We created our language - inspirated by Indian proverbs, which represent mysterious India. It very funny and makes you think. Also, that is a part of the visual communication in posters,and especially on social media. 
+We also created an alternative custom language based on Indian proverbs. The language characterizes mysterious India. These proverbs make you think and lead to a smile. Also, that is a part of the visual and marketing communication in posters, and especially on social media. 
 
 ### Promotion
 
