@@ -1,15 +1,19 @@
 ## Character & Description
 
-![The idea of a letter C symbolizes a lying cat. Inspiration of my cat.](uppercase-c-tsmitkova.png)
+![A big, cozy C is illustrated as a black cat lying, by a wood stove, on a lazy day..](uppercase-c-tsmitkova.jpg)
 
-*C*, Tereza Smitkova. Screenshot of an artboard in Adobe Illustrator.
+*C*, Tereza Smitkova. Inspiration of my cat Maja illustrated in Adobe Illustration.
 
 - - -
 
-**Alt text:** The idea of a letter C symbolizes a lying cat. Inspiration of my cat.
+**Alt text:** A big, cozy C is illustrated as a black cat lying, by a wood stove, on a lazy day.
 
-### Process
 
 #### Inspiration
 
-![My cat.](uppercase-c-inspiration.jpg)
+![My cat Maja.](uppercase-c-inspiration.jpg)
+
+- - -
+
+My lovely cat Maja basking its old bones by a wood stove.
+
