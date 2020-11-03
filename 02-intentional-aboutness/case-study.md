@@ -82,7 +82,7 @@ For example: Romeo, I am waiting for you, where are you? (you can see in the fir
 
 ![badges](images/badges-festival.jpg)
 
-![tickets](images/tickets-festival.jpg)
+![tickets](images/tickets.jpg)
 
 
 ### Presention 
