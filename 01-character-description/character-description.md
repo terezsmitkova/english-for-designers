@@ -1,6 +1,6 @@
 ## Character & Description
 
-![A big, cozy C is illustrated as a black cat lying, by a wood stove, on a lazy day..](uppercase-c-tsmitkova.jpg)
+![A big, cozy C is illustrated as a black cat lying, by a wood stove, on a lazy day..](uppercase-c-tsmitkova.png)
 
 *C*, Tereza Smitkova. Inspiration of my cat Maja illustrated in Adobe Illustration.
 
