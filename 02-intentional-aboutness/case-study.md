@@ -84,15 +84,6 @@ For example: Romeo, I am waiting for you, where are you? (you can see in the fir
 
 ![tickets](images/tickets-festival.jpg)
 
-### Microanimation and TV spot
-
-![Microanimation](animations/microanimation.mp4)
-
-![TV spot](animations/TV-spot.mp4)
-
-There are a little animation and TV spot for showing that the illustration could be on the move.
-
-To download in animations
 
 ### Presention 
 
