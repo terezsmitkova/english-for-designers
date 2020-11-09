@@ -10,4 +10,4 @@
 
 - - -
 
-[Home](https://terezsmitkova.github.io/english-for-designers/)
+[Home](https://github.com/terezsmitkova/english-for-designers)
