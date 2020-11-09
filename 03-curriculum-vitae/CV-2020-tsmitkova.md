@@ -10,21 +10,21 @@ Now I am a student of Graphic and Media Design at the University of creative com
 ## Experience
 My experience at the University. We work on public contracts.
 
-[Bookafe](03-curriculum-vitae/projects/bookafe.png) - project for library cafe
+[Bookafe](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/bookafe.png) - project for library cafe
 
-[Blanka Matragi](03-curriculum-vitae/projects/matragi.png) - fashion logo 
+[Blanka Matragi](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/matragi.png) - fashion logo 
 
-[Kukoč](03-curriculum-vitae/projects/kukoc.jpg) - visual communication for tourism area Kutnohorsko, Kolínsko and Čáslavko.
+[Kukoč](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/kukoc.jpg) - visual communication for tourism area Kutnohorsko, Kolínsko and Čáslavko.
 
-[Bollywood](03-curriculum-vitae/projects/posters-festival.jpg) - visual style for Bollywood festival
+[Bollywood](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/posters-festival.jpg) - visual style for Bollywood festival
 
 My experience in the graphic design world 
 
 [Industrial coffee club](https://www.instagram.com/industrialcoffeeclub/) - logo for my mum's cafe and social media 
 
-[Podlahy Kadlec](03-curriculum-vitae/projects/kadlec.jpg) - logo for a company producing floor
+[Podlahy Kadlec](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/kadlec.jpg) - logo for a company producing floor
 
-[7brandz](03-curriculum-vitae/projects/7brandz.png) - fashion logo
+[7brandz](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/7brandz.png) - fashion logo
 
 ## Skills 
 A user of graphic design software as Adobe Illustrator, Photoshop, Indesign, After effects, XD, Procreate; Microsoft Windows 10, and Apple os x operating system. My hand skills include drawing, illustration, artworks with apple pencil at Procreate.
