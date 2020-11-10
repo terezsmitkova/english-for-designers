@@ -4,9 +4,11 @@ I am a graphic designer living in two worlds, in my creative and in the other no
 Here is a little bit of information about me.
 
 ## Education
-A graduate of Graphic design at Bussiness school in Teplice city (2014–2018).
+- (2014–2018) A graduate of Graphic design at Bussiness school in Teplice city.
 
-Now I am a student of Graphic and Media Design at the University of creative communication (2018–2021), where I am gaining experience for my future job. Then I would like to continue to masters studies in Graphic Design. I look forward to working at some graphic design studio, but I would rather have my own. 
+- (2018–2021) Now I am a student of Graphic and Media Design at the University of creative communication.
+
+I am gaining experience for my future job here. Then I would like to continue to masters studies in Graphic Design. I look forward to working at some graphic design studio, but I would rather have my own. 
 
 ## Experience
 My experience at the University. We work on public contracts.
