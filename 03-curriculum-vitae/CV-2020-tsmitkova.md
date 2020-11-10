@@ -8,7 +8,7 @@ Here is a little bit of information about me.
 
 - (2018–2021) Now I am a student of Graphic and Media Design at the University of creative communication.
 
-I am gaining experience for my future job here. Then I would like to continue to masters studies in Graphic Design. I look forward to working at some graphic design studio, but I would rather have my own. 
+I am gaining experience for my future job in the university. Then I would like to continue to masters studies in Graphic Design. I look forward to working at some graphic design studio, but I would rather have my own. 
 
 ## Experience
 My experience at the University. We work on public contracts.
