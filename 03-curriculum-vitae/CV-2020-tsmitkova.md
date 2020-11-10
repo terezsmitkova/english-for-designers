@@ -13,21 +13,21 @@ I am gaining experience for my future job in the university. Then I would like t
 ## Experience
 My experience at the University. We work on public contracts.
 
-[Bookafe](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/bookafe.png) - project for book(store) cafe
+- 2018 [Bookafe](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/bookafe.png) - project for book(store) cafe
 
-[Blanka Matragi](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/matragi.png) - fashion logo 
+- 2018 [Blanka Matragi](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/matragi.png) - fashion logo 
 
-[Kukoč](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/kukoc.jpg) - visual communication for tourism area Kutnohorsko, Kolínsko and Čáslavko.
+- 2019 [Kukoč](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/kukoc.jpg) - visual communication for tourism area Kutnohorsko, Kolínsko and Čáslavko.
 
-[Bollywood](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/posters-festival.jpg) - visual style for Bollywood festival
+- 2020 [Bollywood](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/posters-festival.jpg) - visual style for Bollywood festival
 
 My experience in the graphic design world 
 
-[Industrial coffee club](https://www.instagram.com/industrialcoffeeclub/) - logo for my mum's cafe and social media 
+- 2018 [Industrial coffee club](https://www.instagram.com/industrialcoffeeclub/) - logo for my mum's cafe and social media 
 
-[Podlahy Kadlec](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/kadlec.jpg) - logo for a floor manufacturer
+- 2019 [Podlahy Kadlec](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/kadlec.jpg) - logo for a floor manufacturer
 
-[7brandz](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/7brandz.png) - fashion logo
+- 2020 [7brandz](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/7brandz.png) - fashion logo
 
 ## Skills 
 A user of graphic design software as Adobe Illustrator, Photoshop, Indesign, After effects, XD, Procreate; Microsoft Windows 10, and Apple os x operating system. My hand skills include drawing, illustration, artworks with apple pencil at Procreate.
