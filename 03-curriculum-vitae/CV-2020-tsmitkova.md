@@ -22,7 +22,7 @@ My experience in the graphic design world
 
 [Industrial coffee club](https://www.instagram.com/industrialcoffeeclub/) - logo for my mum's cafe and social media 
 
-[Podlahy Kadlec](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/kadlec.jpg) - logo for a company producing floor
+[Podlahy Kadlec](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/kadlec.jpg) - logo for a floor manufacturer
 
 [7brandz](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/7brandz.png) - fashion logo
 
