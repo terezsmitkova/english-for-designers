@@ -10,7 +10,7 @@ Now I am a student of Graphic and Media Design at the University of creative com
 ## Experience
 My experience at the University. We work on public contracts.
 
-[Bookafe](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/bookafe.png) - project for library cafe
+[Bookafe](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/bookafe.png) - project for book(store) cafe
 
 [Blanka Matragi](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/matragi.png) - fashion logo 
 
