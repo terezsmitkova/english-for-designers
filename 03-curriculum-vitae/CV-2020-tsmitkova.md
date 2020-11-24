@@ -1,9 +1,26 @@
 # Tereza Smitková
 ## Hi, this is me!
+Here is a little bit of information about me.
 
 I am a graphic and media design student with a sense of creative thinking, obsessed with preciseness and simplicity of artwork, and living in the creative universe inside my head. Always up for new challenges and I never stop sear- ching for new styles and new forms of self-expression to improve my skills.
 
-Here is a little bit of information about me.
+## Interests
+I am also a coffee and food lover, a human, who likes discovering new interesting places, and a passionate bookworm.
+
+## Skills
+
+- Effective communication 
+- Team collaboration
+- Procreate
+(drawing illustrations on Tablet) 
+- Typography and calligraphy
+- Book rate, layout
+#### Adobe:
+- Illustrator
+- Photoshop
+- Indesign
+- After effects 
+- XD
 
 ## Education
 2018 – 2021
@@ -15,7 +32,6 @@ I am gaining experience for my future job in the university. Then I would like t
 2014 – 2018
 ### High school of trade and services, Teplice
 Graphic design
-
 
 ## My Experience
 #### Interesting school projects
@@ -37,20 +53,5 @@ My experience at the University. We work on public contracts.
 
 - 2020 [7brandz](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/7brandz.png) - a logo for new fashion brand
 
-## Skills
 
-- Effective communication 
-- Team collaboration
-- Procreate
-(drawing illustrations on Tablet) 
-- Typography and calligraphy
-- Book rate, layout
-#### Adobe:
-- Illustrator
-- Photoshop
-- Indesign
-- After effects 
-- XD
 
-## Interests
-I am also a coffee and food lover, a human, who likes discovering new interesting places, and a passionate bookworm.
