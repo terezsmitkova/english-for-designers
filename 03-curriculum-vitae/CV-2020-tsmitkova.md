@@ -1,6 +1,6 @@
 # Tereza Smitková
 
-I am a graphic designer living in two worlds, in my creative and in the other normal. 
+I am a graphic designer living in the creative universe inside my head.
 Here is a little bit of information about me.
 
 ## Education
