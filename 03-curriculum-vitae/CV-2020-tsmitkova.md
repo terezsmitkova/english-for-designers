@@ -1,6 +1,7 @@
 # Tereza Smitková
 
-I am a graphic designer living in the creative universe inside my head.
+I am a graphic and media design student with a sense of creative thinking, obsessed with preciseness and simplicity of artwork, and living in the creative universe inside my head. Always up for new challenges and I never stop sear- ching for new styles and new forms of self-expression to improve my skills.
+
 Here is a little bit of information about me.
 
 ## Education
