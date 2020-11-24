@@ -4,11 +4,16 @@ I am a graphic designer living in the creative universe inside my head.
 Here is a little bit of information about me.
 
 ## Education
-- (2014–2018) A graduate of Graphic design at Bussiness school in Teplice city.
-
-- (2018–2021) Now I am a student of Graphic and Media Design at the University of creative communication.
+2018 – 2021
+University of creative communication, Prague
+Graphic and media design
 
 I am gaining experience for my future job in the university. Then I would like to continue to masters studies in Graphic Design. I look forward to working at some graphic design studio, but I would rather have my own. 
+
+2014 – 2018
+High school of trade and services, Teplice
+Graphic design
+
 
 ## Experience
 My experience at the University. We work on public contracts.
