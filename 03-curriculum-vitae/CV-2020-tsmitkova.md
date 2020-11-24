@@ -5,18 +5,18 @@ Here is a little bit of information about me.
 
 ## Education
 2018 – 2021
-#### University of creative communication, Prague
+### University of creative communication, Prague
 Graphic and media design
 
 I am gaining experience for my future job in the university. Then I would like to continue to masters studies in Graphic Design. I look forward to working at some graphic design studio, but I would rather have my own. 
 
 2014 – 2018
-#### High school of trade and services, Teplice
+### High school of trade and services, Teplice
 Graphic design
 
 
 ## Experience
-My experience at the University. We work on public contracts.
+#### My experience at the University. We work on public contracts.
 
 - 2018 [Bookafe](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/bookafe.png) - a project for a new book(store) cafe
 
@@ -26,7 +26,7 @@ My experience at the University. We work on public contracts.
 
 - 2020 [Bollywood](https://github.com/terezsmitkova/english-for-designers/blob/main/03-curriculum-vitae/projects/posters-festival.jpg) - a visual style for Bollywood festival
 
-My experience in the graphic design world 
+#### My experience in the graphic design world 
 
 - 2018 [Industrial coffee club](https://www.instagram.com/industrialcoffeeclub/) - a logo for my mum's cafe and social media 
 
