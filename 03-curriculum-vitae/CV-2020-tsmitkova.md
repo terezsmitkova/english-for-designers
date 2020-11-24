@@ -5,13 +5,13 @@ Here is a little bit of information about me.
 
 ## Education
 2018 – 2021
-University of creative communication, Prague
+#### University of creative communication, Prague
 Graphic and media design
 
 I am gaining experience for my future job in the university. Then I would like to continue to masters studies in Graphic Design. I look forward to working at some graphic design studio, but I would rather have my own. 
 
 2014 – 2018
-High school of trade and services, Teplice
+#### High school of trade and services, Teplice
 Graphic design
 
 
