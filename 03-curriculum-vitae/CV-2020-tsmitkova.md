@@ -2,7 +2,7 @@
 ## Hi, this is me!
 Here is a little bit of information about me.
 
-I am a graphic and media design student with a sense of creative thinking, obsessed with preciseness and simplicity of artwork, and living in the creative universe inside my head. Always up for new challenges and I never stop sear- ching for new styles and new forms of self-expression to improve my skills.
+I am a graphic and media design student with a sense of creative thinking, obsessed with preciseness and simplicity of artwork, and living in the creative universe inside my head. Always up for new challenges and I never stop searching for new styles and new forms of self-expression to improve my skills.
 
 ## Interests
 I am also a coffee and food lover, a human, who likes discovering new interesting places, and a passionate bookworm.
