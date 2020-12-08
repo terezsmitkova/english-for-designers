@@ -1,2 +1,2 @@
 # english-for-designers
-course projects
+ - ### [View Course Work](https://github.com/terezsmitkova/english-for-designers/blob/main/index.md)
