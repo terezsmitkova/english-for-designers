@@ -7,7 +7,7 @@
 
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](01-character-description/character-description.md)
-- [Voice & Tone]
+- [Voice & Tone](04-voice-tone/voice-tone-worksheet.md)
 - [Chapter VI. - Copying](04-voice-tone/04-voice-tone.md)
 
 - - -
