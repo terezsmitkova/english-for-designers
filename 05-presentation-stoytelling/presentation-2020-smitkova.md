@@ -1,6 +1,6 @@
 
 # Me and illustrations
-I would like to tell you something more about Me and Illustrations, First I am going to speak about one of my favorite illustrators Eliška Podzimková and next I am going to show you my illustrations and tell you something more about my artworks.
+I would like to tell you something more about Me and Illustrations, First I am going to speak about one of my favorite illustrators Eliška Podzimková and next I am going to show you my illustrations and then tell you something more about my artworks.
 ## Who is Eliška Podzimková? 
 ![My favorite ilustrator](img/eliska-podzimkova.jpg)
 - illustrator - she creates a specific illustration and has a unique style.
@@ -10,7 +10,7 @@ I would like to tell you something more about Me and Illustrations, First I am g
 Eliska Podzimkova is a young artist from Prague. She is a creative multimedia artist whose unique wit, a strong sense of design, and technical skill have all contributed to her international reputation as a pioneering animator, illustrator, and digital artist. Her unusual technique of blending live-action photography and video with humorous yet emotionally hand-drawn animation is universally appealing across genres and borders alike. Whether applying her art to award-winning short films, music videos, collaborative photography projects, or marketing campaigns for such clients as Jamie Oliver, Vogue Magazine, New York Film Academy, and many others.
 
 ## Why is Eliska one of my favorite illustrators?
-I gotta admire her talent. She has incredible imaginations with her illustrations. She is a very powerful woman. When she was 16 years old, doctors diagnosed her with cancer. However, Eliška never admitted that it could go wrong. She makes life so nice for her. She is a person, who makes you laugh and awakens in you the feeling that it is never the right time to give up anything…
+I gotta admire her talent. She has incredible imaginations with her illustrations. She is a very powerful woman. When she was 16 years old, doctors diagnosed her with cancer. Fortunately, Eliška never admitted that it could go wrong. She makes life so nice for her. She is a person, who makes you laugh and awakens in you the feeling that it is never the right time to give up anything…
 As she says: 
 I am ready to enjoy every day as best I can.
 And nowadays she is a world-famous illustrator. 
@@ -27,10 +27,10 @@ NYC
 Prague (Zizkov TV tower and The dancing house)
 
 ### The book: The little prince
-![animate Prague](img/the-little-prince.jpg)
+![The little prince](img/the-little-prince.jpg)
 My favorite project is the book The Little Prince, which Eliška illustrated. Here again, she uses a combination of photos she took in Iceland together with her illustrations. She added interactive drawings to the book, which you scan by Artivive application, and the illustrations become short animations, so the story of the little prince comes to life.
 
-![animate Prague](img/the-little-prince-1.jpg)
+![The little prince - pictures](img/the-little-prince-1.jpg)
 
 ## Who am I?
 - A student of graphic and media design
@@ -45,18 +45,18 @@ I started watching Eliška on Instagram about a year ago. I liked her work, it w
 ## My works 
 ### Never-ending calendar
 
-![animate Prague](img/watercolor.jpg)
-![animate Prague](img/watercolor_.jpg)
+![watercolour](img/watercolor.jpg)
+![waterclour2](img/watercolor_.jpg)
 There are two of twelve watercolor illustrations for my never-ending calendar, which I sell in my mummy’s cafe. 
 
 ### Movie Poster - Wings of desire 
-![animate Prague](img/wings.jpg)
+![Wings of desire](img/wings.jpg)
 
 ### Inspiration by Eliska
-![animate Prague](img/my-works.jpg)
+![works](img/my-works.jpg)
 
 ### Happy Holidays 
-![animate Prague](img/hollydays.jpg)
+![Happy holidays](img/hollydays.jpg)
 
 
 
