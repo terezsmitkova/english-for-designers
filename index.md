@@ -1,7 +1,7 @@
 # Tereza Smitková
 
 - [About](02-intentional-aboutness/about.md)
-- [Experience](/03-curriculum-vitae/CV-2020-tsmitkova.md)
+- [Experience](/03-curriculum-vitae/CV-2020-tsmitkova.pdf)
 
 ## Work
 
