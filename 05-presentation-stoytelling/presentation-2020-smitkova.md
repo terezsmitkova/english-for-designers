@@ -35,7 +35,7 @@ My favorite project is the book The Little Prince, which Eliška illustrated. He
 ## Who am I?
 - A student of graphic and media design
 - A person, who obsessed with precision and simplicity
-- Designer, who lives in the universe inside his head
+- Designer, who lives in the universe inside her head
 - A Lover of illustrations
 - And a big bookworm!
 
