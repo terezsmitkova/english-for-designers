@@ -1,6 +1,8 @@
 ## Abstract
 
-Bachelor thesis deals with the problem of missing visual and marketing communication of the tourist area Teplicko, located between the Bohemian Central Mountains and the Ore Mountains. The theoretical part defines the meaning of corporate identity and its relationship to image, a brand as a sign of society, describes forms of marketing communication, preparation of advertising campaign, communication theory, and, finally, types of mass media. The practical part analyses Teplicko with marketing tools and interviews. The work identifies positive and negative aspects and subsequently offers new communication solutions. The author plans to introduce the concept to the info center and establish future cooperation with them.
+Bachelor thesis deals with a problem missing visual presentation and marketing communication of the tourist area Teplicko. The thesis focuses on designing new means of communication that solve current issues of this location. The theoretical part defines the meaning of corporate identity and its relationship to image, a brand as a sign of society, describes forms of marketing communication, preparation of advertising campaign, and, finally, types of mass media. In the practical part, the author analyzes the Teplicko area in detail using marketing tools and from interviews provided with the co-founder of the tourist center VisitTeplice and deputy secretary of the Tourism and Spa Commission of the Ústí Region. The work identifies positive and negative aspects and subsequently offers new communication solutions. The author plans to introduce the concept to the tourist center and establish future cooperation with them.
+
+
 
 #### Keywords:
-marketing communication, visual communication, graphic design, media design, identity, visual style
+Visual communication, marketing communication, brand, graphic design, media design, identity, visual style
