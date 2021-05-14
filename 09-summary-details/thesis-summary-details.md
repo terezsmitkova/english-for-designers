@@ -13,11 +13,11 @@ I always like traveling around the Czech Republic. Since I was a kid, my parents
 ![VisitTeplice - an information center](img/visitteplice.jpg)
 
 ### Teplicko
-Personally, Teplicko is one of the favorite places because I studied at High school, and a majority of my family live here as my brother with family, my grandparents.
-
-![the tourist area Teplicko](img/teplicko.jpg)
+Personally, Teplicko is one of the favorite places because I studied at High school (there is a lot of my friends), and a majority of my family live here as my brother with family, my grandparents.
 
 This destination is a beautiful tourist spot with a rich history, a range of cultural monuments, relaxation places as parks, gardens, and a beautiful natural environment with a range of forests and mountain peaks. There is the oldest spa in Bohemia, the longest cableway in Europe, and many other fascinating places. In the past, Teplicko was a favorite of people and famous personalities from all over the world. They used to visit the spa and cultural life even during the days when the town of Teplice was still called Little Paris.
+
+![the tourist area Teplicko](img/teplicko.jpg)
 
 ### Inspiration first
 First, I create research on tourist areas in the Czech Republic. Their visual presentation, marketing communication, and online messages via social networks as Instagram or Facebook. I am interested in the communication of Lipno nad Vltavou. They have their mascot (Mr. Fox) that represented Lipno and lures new tourists, especially families with kids. 
@@ -29,8 +29,15 @@ Next, that intrigued me is Znojmo city. They have good communication via Instagr
 ![Znojmocity – instagram](img/znojmocity_instagram.jpg)
 
 ### First drafts
+#### The logo
+From the beginning, I tried several types and cuts of the font, but in the end, we chose the stencil font that best-described tourism and its paths.
 
-![First drafts](img/first_drafts.jpg)
+![First drafts](img/first_drawn_logo.jpg)
+
+#### Posters
+Here, I tried to highlight the arrow, which is also shown in the logo. And I also worked with photos, which I also covered with an arrow. However, we agreed with the professor that the symbol of direction is not the essential element and that I should focus more on photographs and interestingly edit them. That's why I then chose the monochrome color of the photos, which attract much better attention and mark tourism with their color.
+
+![First drafts](img/first_drawn_posters.jpg)
 
 ### Design of logo
 I called the tourist area Teplicko in marketing and visual communication „in Teplicko.“ This name refers to activities, that happen in Teplice, and the tourist can experience them here. The main principle of the proposed logo is the representation of hiking paths using stencil fonts, which I designed myself. It also contains an arrow representing the direction of indicators encountered in different ways. In the visual style, I have chosen a typical color spectrum (blue, green, red, yellow), which we know from tourist signs and attract our attention well.
@@ -55,7 +62,7 @@ One of the most important communication channels for attracting new tourists (fa
 ![Poster of mascot](img/poster_mascot.jpg)
 
 ### Posters
-The prints, that can we see on the street every day are called Out of Home. I deal here with the application for posters, banners, and billboards. I've divided these posters into three levels of communication.
+The prints, that can we see on the street every day are called Out of Home. I deal here with the application for posters, banners, and billboards. I've divided these posters into three types of communication.
 
 - Image posters
 - Information posters
